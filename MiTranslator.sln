@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiTranslator", "MiTranslator\MiTranslator.csproj", "{1BC27E2C-31E5-444A-B91E-2CB6240DBDC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranslatorWeb", "TranslatorWeb\TranslatorWeb.csproj", "{33B274F1-4D72-465C-B9CA-6937E4F0F4DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1BC27E2C-31E5-444A-B91E-2CB6240DBDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BC27E2C-31E5-444A-B91E-2CB6240DBDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BC27E2C-31E5-444A-B91E-2CB6240DBDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B274F1-4D72-465C-B9CA-6937E4F0F4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B274F1-4D72-465C-B9CA-6937E4F0F4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B274F1-4D72-465C-B9CA-6937E4F0F4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B274F1-4D72-465C-B9CA-6937E4F0F4DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
