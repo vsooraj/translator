@@ -207,6 +207,10 @@
     <Compile Include="Migrations\201710280202271_OverrideConventionsForPlatform.Designer.cs">
       <DependentUpon>201710280202271_OverrideConventionsForPlatform.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201710280212527_PopulatePlatformTable.cs" />
+    <Compile Include="Migrations\201710280212527_PopulatePlatformTable.Designer.cs">
+      <DependentUpon>201710280212527_PopulatePlatformTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -300,6 +304,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201710280202271_OverrideConventionsForPlatform.resx">
       <DependentUpon>201710280202271_OverrideConventionsForPlatform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201710280212527_PopulatePlatformTable.resx">
+      <DependentUpon>201710280212527_PopulatePlatformTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
